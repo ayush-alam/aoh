@@ -1,0 +1,42 @@
+/* The WebPage is developed by Ayush Alam, Apple On Head */
+
+.button{
+    background-color: white;
+    border: none;
+    font-size: 107%;
+}
+
+.mainhead{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 179%;
+}
+
+.head{
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.butt{
+    text-align: center;
+}
+
+.link{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+#fun{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    font-size: 107%;
+}
+
+.mainimg{
+    text-align: center;
+}
+
+.normaltext{
+    font-family: 'Roboto Mono', monospace;
+}
